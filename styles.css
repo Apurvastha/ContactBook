@@ -71,9 +71,10 @@ button:active {
 }
 
 #search {
-    width: 100%;
+    width: 96%;
     margin-bottom: 30px;
     background-color: #f7f7f7;
+
 }
 
 ul {
